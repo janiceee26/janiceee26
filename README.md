@@ -1,6 +1,5 @@
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.jpg'); background-size: cover; padding: 30px; border-radius: 15px;">
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.jpg.gif'); background-size: cover; padding: 30px; border-radius: 15px;">
 
-      <div align="center" style="background-image: url('https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.png.gif'); background-size: cover; padding: 30px; border-radius: 15px;">
 
 ![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
 
