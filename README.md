@@ -1,23 +1,12 @@
-<div align="center">
+<div align="center" style="background-color:#FCE4EC; padding: 30px; border-radius: 15px;">
 
 ![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+;An+Aspiring+SQA+Engineer+%F0%9F%94%8D;Welcome+to+my+GitHub!+%F0%9F%8C%B8" alt="Typing SVG" /></a>
 
 <p><strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong></p>
 
 </div>
-
----
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
