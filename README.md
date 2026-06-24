@@ -2,7 +2,7 @@
 
 ![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+V.+Agnote;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
 
 <p><strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong></p>
 
@@ -61,7 +61,7 @@ Feel free to reach out for collaborations, learning opportunities, or just to ta
 
 QA testing is always better with the right soundtrack! Click the badge below to tune in:
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7pWko9IDNpYbdCxrmPU8Va?si=c19c44b73529494d)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V?si=d91b5db63feb4351)
 
 ---
 
