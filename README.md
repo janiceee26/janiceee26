@@ -48,7 +48,7 @@ Feel free to reach out to me for collaborations, learning opportunities, or just
 
 ## 🎵 My Favorite Jam
 
-QA testing are always better with the right soundtrack! Click the badge below to tune in to my favorite song:
+QA testing is always better with the right soundtrack! Click the badge below to tune in to my favorite song:
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7pWko9IDNpYbdCxrmPU8Va?si=c19c44b73529494d)
 
@@ -60,21 +60,20 @@ QA testing are always better with the right soundtrack! Click the badge below to
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose&hide_border=true&title_color=f48fb1&icon_color=ff4081" alt="Janice's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=janiceee26&show_icons=true&theme=rose&hide_border=true&title_color=f48fb1&icon_color=ff4081" alt="Janice's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose&hide_border=true&title_color=f48fb1" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiceee26&layout=compact&theme=rose&hide_border=true&title_color=f48fb1" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/f50cfcf27924660f604763828dfaae60.gif" width="150" alt="Janice Chibi Character" />
+<img src="https://raw.githubusercontent.com/janiceee26/janiceee26/main/f50cfcf27924660f604763828dfaae60.gif" width="150" alt="Janice Chibi Character" />
 
 <br />
 
 _✨ "Quality is never an accident; it is always the result of intelligent effort. Finding the flaws today to build flawless experiences tomorrow." ✨_
 
 </div>
-
