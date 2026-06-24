@@ -1,5 +1,7 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.jpg'); background-size: cover; padding: 30px; border-radius: 15px;">
 
+      <img src=" "> 
+
 ![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=AD1457&center=true&vCenter=true&width=760&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%8C%B8;Hi!+My+name+is+Janice+%F0%9F%91%8B;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
