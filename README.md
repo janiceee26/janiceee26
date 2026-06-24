@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+✨;I+am+Janice;An+Aspiring+SQA+Engineer+🔍" alt="Typing SVG" />
+![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+V.+Agnote;An+Aspiring+SQA+Engineer+🔍" alt="Typing SVG" /></a>
 
 <p align="center">
   <strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong>
