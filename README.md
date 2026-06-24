@@ -2,25 +2,34 @@
 
 ![Janice SQA Banner](https://animesher.com/orig/1/139/1394/13942/animesher.com_macbook-girl-laptop-211172.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+V.+Agnote;An+Aspiring+SQA+Engineer+🔍" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Hi!+My+name+is+Janice+V.+Agnote;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
 
+<p><strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong></p>
+
+</div>
+
+---
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <p align="center">
-  <strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janiceee26/janiceee26/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-</div>
-
 ## 🌸 About Me
 
-I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's degree, dedicated to ensuring software excellence and building seamless user experiences. I believe that the best software starts with someone who genuinely cares about quality—and I am continuously refining my skills to become that professional every day.
+I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's degree, dedicated to ensuring software excellence and building seamless user experiences. I believe that the best software starts with someone who genuinely cares about quality — and I am continuously refining my skills to become that professional every day.
 
-* **Name:** Janice V. Agnote
-* **Course:** Bachelor of Science in Information Systems — 3rd Year
-* **Location:** Legazpi City, Albay, Philippines
-* **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer
-* **Core Philosophy:** I trust in God's perfect timing to reveal the path where I am truly meant to excel. 🙏
+- 📛 **Name:** Janice V. Agnote
+- 🎓 **Course:** Bachelor of Science in Information Systems — 3rd Year
+- 📍 **Location:** Legazpi City, Albay, Philippines
+- 🎯 **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer
+- 🙏 **Core Philosophy:** I trust in God's perfect timing to reveal the path where I am truly meant to excel.
 
 ---
 
@@ -39,18 +48,18 @@ I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's 
 
 ## 🌸 Connect with Me
 
-Feel free to reach out to me for collaborations, learning opportunities, or just to talk about tech!
+Feel free to reach out for collaborations, learning opportunities, or just to talk about tech!
 
-* **Email:** <a href="mailto:janiceagnote41@gmail.com">`janiceagnote41@gmail.com`</a>
-* **LinkedIn:** [Janice Agnote](https://linkedin.com)
-* **Facebook:** [Janice Agnote](https://facebook.com)
-* **Instagram:** [@iceeez_xjaaah](https://instagram.com)
+- 📧 **Email:** [janiceagnote41@gmail.com](mailto:janiceagnote41@gmail.com)
+- 💼 **LinkedIn:** [Janice Agnote](https://linkedin.com)
+- 📘 **Facebook:** [Janice Agnote](https://facebook.com)
+- 📸 **Instagram:** [@iceeez_xjaaah](https://instagram.com/iceeez_xjaaah)
 
 ---
 
 ## 🎵 My Favorite Jam
 
-QA testing is always better with the right soundtrack! Click the badge below to tune in to my favorite song:
+QA testing is always better with the right soundtrack! Click the badge below to tune in:
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7pWko9IDNpYbdCxrmPU8Va?si=c19c44b73529494d)
 
