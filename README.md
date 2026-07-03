@@ -73,26 +73,22 @@ QA testing is always better with the right soundtrack! Click the badge below to 
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=janiceee26&show_icons=true&theme=radical&hide_border=true&title_color=f48fb1&icon_color=ff4081" alt="Janice's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=janiceee26&show_icons=true&theme=radical&hide_border=true&title_color=f48fb1&icon_color=ff4081&cache_seconds=1800" alt="Janice's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiceee26&layout=compact&theme=radical&hide_border=true&title_color=f48fb1" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=janiceee26&layout=compact&theme=radical&hide_border=true&title_color=f48fb1&cache_seconds=1800" alt="Top Languages" />
       </td>
     </tr>
   </table>
-
 <br />
-
 <img src="https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.png.gif" width="150" alt="Janice Chibi Character" />
-
 <br />
-
-_✨ "Quality is never an accident; it is always the result of intelligent effort. Finding the flaws today to build flawless experiences tomorrow." ✨_
+✨ "Quality is never an accident; it is always the result of intelligent effort. Finding the flaws today to build flawless experiences tomorrow." ✨
 
 </div>
