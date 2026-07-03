@@ -14,11 +14,11 @@
 
 I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's degree, dedicated to ensuring software excellence and building seamless user experiences. I believe that the best software starts with someone who genuinely cares about quality — and I am continuously refining my skills to become that professional every day.
 
-- 📛 **Name:** Janice V. Agnote
-- 🎓 **Course:** Bachelor of Science in Information Systems — 3rd Year
-- 📍 **Location:** Legazpi City, Albay, Philippines
-- 🎯 **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer
-- 🙏 **Core Philosophy:** I trust in God's perfect timing to reveal the path where I am truly meant to excel.
+- 📛 **Name:** Janice V. Agnote  
+- 🎓 **Course:** Bachelor of Science in Information Systems — 3rd Year  
+- 📍 **Location:** Legazpi City, Albay, Philippines  
+- 🎯 **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer  
+- 🙏 **Core Philosophy:** I trust in God's perfect timing to reveal the path where I am truly meant to excel.  
 
 ---
 
@@ -35,14 +35,33 @@ I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's 
 
 ---
 
+## 🌟 Soft Skills
+
+- 🗣️ **Communication:** I can clearly express ideas and collaborate effectively.  
+- 🔎 **Error Detection:** Skilled at spotting issues and inconsistencies.  
+- 🧠 **Critical Thinking:** Analytical mindset for evaluating software quality.  
+- 📚 **Willingness to Learn:** Always open to new knowledge and growth.  
+
+---
+
+## 📖 Currently Learning
+
+As an aspiring SQA Engineer, I am focusing on the **Software Development Life Cycle (SDLC)** to understand:  
+- 📌 Requirement Analysis  
+- 📌 Test Planning & Design  
+- 📌 Execution & Defect Tracking  
+- 📌 Continuous Improvement  
+
+---
+
 ## 🌸 Connect with Me
 
 Feel free to reach out for collaborations, learning opportunities, or just to talk about tech!
 
-- 📧 **Email:** [janiceagnote41@gmail.com](mailto:janiceagnote41@gmail.com)
-- 💼 **LinkedIn:** [Janice Agnote](https://linkedin.com)
-- 📘 **Facebook:** [Janice Agnote](https://facebook.com)
-- 📸 **Instagram:** [@iceeez_xjaaah](https://instagram.com/iceeez_xjaaah)
+- 📧 **Email:** [janiceagnote41@gmail.com](mailto:janiceagnote41@gmail.com)  
+- 💼 **LinkedIn:** [Janice Agnote](https://linkedin.com)  
+- 📘 **Facebook:** [Janice Agnote](https://facebook.com)  
+- 📸 **Instagram:** [@iceeez_xjaaah](https://instagram.com/iceeez_xjaaah)  
 
 ---
 
@@ -60,10 +79,10 @@ QA testing is always better with the right soundtrack! Click the badge below to 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=janiceee26&show_icons=true&theme=rose&hide_border=true&title_color=f48fb1&icon_color=ff4081" alt="Janice's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=janiceee26&show_icons=true&theme=radical&hide_border=true&title_color=f48fb1&icon_color=ff4081" alt="Janice's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiceee26&layout=compact&theme=rose&hide_border=true&title_color=f48fb1" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiceee26&layout=compact&theme=radical&hide_border=true&title_color=f48fb1" alt="Top Languages" />
       </td>
     </tr>
   </table>
