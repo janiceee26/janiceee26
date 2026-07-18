@@ -4,25 +4,24 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=760&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%8C%B8;Hi!+My+name+is+Janice+%F0%9F%91%8B;An+Aspiring+SQA+Engineer+%F0%9F%94%8D" alt="Typing SVG" /></a>
 
-<p><strong>Learning the art of QA testing to deliver seamless and flawless software. 🔍</strong></p>
+<p><strong>Learning the art of QA testing to deliver seamless and flawless software.</strong></p>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's degree, dedicated to ensuring software excellence and building seamless user experiences. I believe that the best software starts with someone who genuinely cares about quality — and I am continuously refining my skills to become that professional every day.
 
-- 📛 **Name:** Janice V. Agnote  
-- 🎓 **Course:** Bachelor of Science in Information Systems — 3rd Year  
-- 📍 **Location:** Legazpi City, Albay, Philippines  
-- 🎯 **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer  
-- 🙏 **Core Philosophy:** I trust in God's perfect timing to reveal the path where I am truly meant to excel.  
+- **Name:** Janice V. Agnote  
+- **Course:** Bachelor of Science in Information Systems — 3rd Year  
+- **Location:** Legazpi City, Albay, Philippines  
+- **Career Goal:** Aspiring Software Quality Assurance (SQA) Engineer  
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -35,45 +34,30 @@ I am an **enthusiastic** and **detail-oriented** student pursuing my bachelor's 
 
 ---
 
-## 🌟 Soft Skills
-
-- 🗣️ **Communication:** I can clearly express ideas and collaborate effectively.  
-- 🔎 **Error Detection:** Skilled at spotting issues and inconsistencies.  
-- 🧠 **Critical Thinking:** Analytical mindset for evaluating software quality.  
-- 📚 **Willingness to Learn:** Always open to new knowledge and growth.  
-
----
-
-## 📖 Currently Learning
+## Currently Learning
 
 As an aspiring SQA Engineer, I am focusing on the **Software Development Life Cycle (SDLC)** to understand:  
-- 📌 Requirement Analysis  
-- 📌 Test Planning & Design  
-- 📌 Execution & Defect Tracking  
-- 📌 Continuous Improvement  
+- Requirement Analysis  
+- Test Planning & Design  
+- Execution & Defect Tracking  
+- Continuous Improvement  
 
 ---
 
-## 🌸 Connect with Me
+## Connect with Me
 
 Feel free to reach out for collaborations, learning opportunities, or just to talk about tech!
 
-- 📧 **Email:** [janiceagnote41@gmail.com](mailto:janiceagnote41@gmail.com)  
-- 💼 **LinkedIn:** [Janice Agnote](https://linkedin.com)  
-- 📘 **Facebook:** [Janice Agnote](https://facebook.com)  
-- 📸 **Instagram:** [@iceeez_xjaaah](https://instagram.com/iceeez_xjaaah)  
+<p align="left">
+  <a href="mailto:janiceagnote41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/iceeez_xjaaah" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-## 🎵 My Favorite Jam
-
-QA testing is always better with the right soundtrack! Click the badge below to tune in:
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V?si=d91b5db63feb4351)
-
----
-
-📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -89,6 +73,6 @@ QA testing is always better with the right soundtrack! Click the badge below to 
 <br />
 <img src="https://raw.githubusercontent.com/janiceee26/janiceee26/main/bg.png.gif" width="150" alt="Janice Chibi Character" />
 <br />
-✨ "Quality is never an accident; it is always the result of intelligent effort. Finding the flaws today to build flawless experiences tomorrow." ✨
+✨ "We all need people who will give us feedback. That's how we improve." — Bill Gates ✨
 
 </div>
